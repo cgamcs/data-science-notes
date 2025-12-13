@@ -1,0 +1,15 @@
+# Ignorar archivos grandes especificos
+Dia\ 6/tarjetas_credito.csv
+Dia\ 6/Dia\ 6.zip
+Dia\ 6/datasets.zip
+
+# Opcional: Ignorar todos los zips y csvs en esa carpeta si prefieres
+Dia\ 6/*.zip
+Dia\ 6/*.csv
+
+*.zip
+*.csv
+Dia 6/datasets.zip
+Dia 6/Dia 6.zip
+Dia 6/Dia 6/tarjetas_credito.csv
+Dia 6/tarjetas_credito.csv
